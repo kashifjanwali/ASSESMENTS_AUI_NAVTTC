@@ -1,0 +1,19 @@
+*{
+    background-color: ghostwhite;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    background-color: rgb(121, 228, 121);
+}
+
+button {
+    background-color: cadetblue;
+    border: 3px solid transparent;
+    border-radius: 6px;
+    padding: 15px;
+    width: 50%;
+    font-size: 20px;
+}
