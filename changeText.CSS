@@ -1,0 +1,24 @@
+* {
+    background-color: lightsteelblue;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 0 2%;
+}
+
+h1, abbr {
+    background-color: dodgerblue;
+    text-decoration: none;
+}
+
+p {
+    font-size: 18px;
+}
+
+button {
+    background-color: chartreuse;
+    padding: 15px;
+    width: auto;
+    border: 3px solid transparent;
+    border-radius: 7px;
+    font-size: 20px;
+}
